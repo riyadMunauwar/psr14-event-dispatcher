@@ -1,7 +1,3 @@
-Here’s a detailed **`README.md`** file for your PSR-14 Event Dispatcher package. This document includes installation instructions, usage examples, and contribution guidelines.
-
----
-
 # PSR-14 Event Dispatcher
 
 A simple and flexible implementation of the **PSR-14** Event Dispatcher interface. This library allows you to create and manage events and their listeners, providing an easy way to implement the observer pattern in your applications.
